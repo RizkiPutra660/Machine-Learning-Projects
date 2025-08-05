@@ -1,3 +1,12 @@
-# Machine Learning Projects
+# Machine Learning Projects Collection | Muhammad Athallah Rizki Putra
 
-My machine learning projects that i created for assignments during my campus course
+📚 **A collection of Machine Learning projects** from my master degree.
+
+## 📌 Project Lists 
+- [Naive Bayes](https://github.com/RizkiPutra660/Machine-Learning-Projects/tree/main/Naive%20Bayes)  
+- [SVM](https://github.com/RizkiPutra660/Machine-Learning-Projects/tree/main/Support%20Vector%20Machine)  
+- [Decision Tree](https://github.com/RizkiPutra660/Machine-Learning-Projects/blob/main/Decision%20Tree%20Classifier.ipynb)
+
+## 🌟 Connect with Me  
+- [Linkedin](https://www.linkedin.com/in/rizkiputra660/) 
+- Email: mathallahrizkip@gmail.com  
